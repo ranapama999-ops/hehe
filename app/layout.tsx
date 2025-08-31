@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   keywords:
     "Schipholtaxi Centrale, Schiphol taxi, luchthaven vervoer Schiphol, vaste prijs taxi, Amsterdam luchthaven taxi, airport transfer, taxi Schiphol, Schiphol vervoer",
   alternates: {
-    canonical: "https://schipholtaxicentrale.nl",
+    canonical: "https://www.schipholtaxi-centrale.com",
   },
   openGraph: {
     title: "Schipholtaxi Centrale – Betrouwbare Luchthaven Taxi Service",
