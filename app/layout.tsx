@@ -7,7 +7,7 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Schipholtaxi Centrale – Betrouwbare Luchthaven Taxi Service 24/7 | Vaste Prijzen",
+  title: "Schipholtaxi Centrale – Vaste prijzen, 24/7 beschikbaar, professionele chauffeurs",
   description:
     "Schipholtaxi Centrale biedt betrouwbare taxi service naar/van Schiphol Airport met vaste prijzen. 24/7 beschikbaar, vlucht monitoring, professionele chauffeurs. Boek online, telefonisch of via WhatsApp. 10+ jaar ervaring.",
   keywords:
