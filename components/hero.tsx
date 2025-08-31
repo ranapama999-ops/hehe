@@ -9,7 +9,7 @@ export function Hero() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-4 sm:mb-6 text-balance leading-tight">
-            Betrouwbare Schiphol Taxi Service
+          Schipholtaxi Centrale
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl text-muted-foreground mb-6 sm:mb-8 text-pretty px-2">
             Vaste prijzen, 24/7 beschikbaar, professionele chauffeurs
