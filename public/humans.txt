@@ -1,6 +1,6 @@
 /* TEAM */
 Developer: Schipholtaxi Centrale Development Team
-Contact: info [at] schipholtaxicentrale.nl
+Contact: info [at] schipholtaxi-centrale
 Location: Amsterdam, Netherlands
 
 /* SITE */
