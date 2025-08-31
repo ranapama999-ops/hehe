@@ -1,0 +1,19 @@
+/* TEAM */
+Developer: Schipholtaxi Centrale Development Team
+Contact: info [at] schipholtaxicentrale.nl
+Location: Amsterdam, Netherlands
+
+/* SITE */
+Last update: 2024/12/19
+Language: Dutch / Nederlands
+Doctype: HTML5
+IDE: Visual Studio Code
+Standards: HTML5, CSS3, JavaScript ES6+, React, Next.js
+Components: Tailwind CSS, TypeScript
+Software: Next.js 14, React 18
+
+/* THANKS */
+Built with Next.js and Tailwind CSS
+Optimized for performance and accessibility
+Mobile-first responsive design
+SEO optimized for Dutch market

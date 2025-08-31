@@ -1,0 +1,27 @@
+{
+  "name": "Schipholtaxi Centrale - Betrouwbare Taxi Service naar Schiphol",
+  "short_name": "Schipholtaxi Centrale",
+  "description": "Professionele taxi service naar en van Schiphol Airport. Vaste tarieven, 24/7 beschikbaar, flight monitoring. Boek nu uw betrouwbare airport transfer!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["travel", "transportation", "business"],
+  "lang": "nl",
+  "dir": "ltr"
+}

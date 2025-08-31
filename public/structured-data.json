@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Schipholtaxi Centrale",
+  "description": "Professionele taxi service naar en van Schiphol Airport met vaste tarieven en 24/7 beschikbaarheid.",
+  "url": "https://schipholtaxicentrale.nl",
+  "telephone": "+31-85-212-9427",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "NL",
+    "addressLocality": "Amsterdam",
+    "addressRegion": "Noord-Holland"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "52.3676",
+    "longitude": "4.9041"
+  },
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "€€",
+  "serviceArea": {
+    "@type": "GeoCircle",
+    "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "latitude": "52.3676",
+      "longitude": "4.9041"
+    },
+    "geoRadius": "50000"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Taxi Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Airport Transfer naar Schiphol",
+          "description": "Betrouwbare taxi service naar Schiphol Airport"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Airport Transfer van Schiphol",
+          "description": "Professionele ophaalservice vanaf Schiphol Airport"
+        }
+      }
+    ]
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "150"
+  },
+  "sameAs": ["https://www.facebook.com/schipholtaxicentrale", "https://www.instagram.com/schipholtaxicentrale"]
+}
