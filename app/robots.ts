@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: ["/admin/", "/private/", "/_next/", "/api/"],
     },
-    sitemap: "https://schipholtaxi-centrale.nl/sitemap.xml",
+    sitemap: "https://www.schipholtaxi-centrale.com/sitemap.xml",
   }
 }
