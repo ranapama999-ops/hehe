@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://schipholtaxicentrale.nl/sitemap.xml
+Sitemap: https://schipholtaxi-centrale.nl/sitemap.xml
 
 # Crawl-delay for respectful crawling
 Crawl-delay: 1
