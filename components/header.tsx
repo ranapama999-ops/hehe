@@ -23,7 +23,7 @@ export function Header() {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <h1 className="text-lg font-bold text-green-600">Schiphol Taxi</h1>
+            <h1 className="text-lg font-bold text-green-600">Schipholtaxi</h1>
           </div>
 
           {/* Desktop Navigation */}
