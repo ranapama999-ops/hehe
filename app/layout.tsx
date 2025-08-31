@@ -12,7 +12,9 @@ export const metadata: Metadata = {
     "Schipholtaxi Centrale biedt betrouwbare taxi service naar/van Schiphol Airport met vaste prijzen. 24/7 beschikbaar, vlucht monitoring, professionele chauffeurs. Boek online, telefonisch of via WhatsApp. 10+ jaar ervaring.",
   keywords:
     "Schipholtaxi Centrale, Schiphol taxi, luchthaven vervoer Schiphol, vaste prijs taxi, Amsterdam luchthaven taxi, airport transfer, taxi Schiphol, Schiphol vervoer",
-  generator: "v0.app",
+  alternates: {
+    canonical: "https://schipholtaxicentrale.nl",
+  },
   openGraph: {
     title: "Schipholtaxi Centrale – Betrouwbare Luchthaven Taxi Service",
     description:
